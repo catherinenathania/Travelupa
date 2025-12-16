@@ -52,14 +52,14 @@ Aplikasi ini dibangun menggunakan **Jetpack Compose** dengan arsitektur Android 
 
 ---
 
-## 📂 Struktur Folder Utama* `MainActivity.kt`: Logika navigasi dan alur utama aplikasi.
+## 📂 Struktur Folder Utama `MainActivity.kt`: Logika navigasi dan alur utama aplikasi.
 * `AppDatabase.kt`: Konfigurasi Room Database.
 * `ImageDao.kt`: Data Access Object untuk operasi database lokal.
 * `ui.theme/`: Pengelolaan tema, warna, dan tipografi aplikasi.
 
 ---
 
-## 👤 Identitas Mahasiswa* **Nama**: Catherine Nathania [235150201111042]
+## 👤 Identitas Mahasiswa **Nama**: Catherine Nathania [235150201111042]
 * **Mata Kuliah**: Pengembangan Aplikasi Perangkat Bergerak (PAPB) 2025
 * **Dosen Pengampu**: Ir. Adam Hendra Brata, S.Kom., M.T., M.Sc.
 
