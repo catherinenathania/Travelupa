@@ -35,7 +35,7 @@ Aplikasi ini dibangun menggunakan **Jetpack Compose** dengan arsitektur Android 
 
 1. **Clone Repository**:
    ```bash
-   git clone [https://github.com/catherinenathania/Travelupa.git](https://github.com/catherinenathania/Travelupa.git)
+   git clone https://github.com/catherinenathania/Travelupa.git
    ```
 
 2. **Firebase Setup**:
